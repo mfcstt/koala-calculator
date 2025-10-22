@@ -69,7 +69,7 @@ const marketplaces: MarketplaceData[] = [
   },
   {
     nome: "Amazon",
-    comissoes: [18],
+    comissoes: [12.5],
     adicional: 5.50,
     imagem: "📦",
     aplicaFreteAcimaDe79: true
